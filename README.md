@@ -1,1 +1,1 @@
-# -calculatorZAMF.github.io
+# CalculatorZAMF.github.io
